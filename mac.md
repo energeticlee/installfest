@@ -18,12 +18,6 @@ With a finder window open, set your finder to display hidden unix files by defau
 cmd + shift + .
 ```
 
-## Slack
-
-We will be using slack to communicate throughout the course. You should've received an invite to our channels via e-mail. You can login via the web browser, but downloading / installing the app is highly recommended.
-
-[Download Slack](https://slack.com/downloads)
-
 ## For M1 Macbooks users ONLY
 
 Open up terminal, and paste the following command to install Rosetta 2. Rosetta is a translation process that allows users to run apps that contain x86_64 instructions on Apple silicon. So it's basically to allow you to use apps that are not yet supported by the new mac processors.
