@@ -8,11 +8,6 @@ For the first portion of the class, we'll be working exclusively inside of the b
 
 **TIP:** Use `CTRL+SHIFT+V` to paste into terminal
 
-## Slack
-
-We will be using slack to communicate throughout the course. You should've received an invite to our channels via e-mail. You can login via the web browser, but downloading / installing the app is highly recommended.
-
-[Download Slack](https://slack.com/downloads)
 
 ## GIT
 
